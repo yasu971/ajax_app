@@ -23,7 +23,7 @@ function check() {
           post.removeAttribute("data-check");
         }
       };
-     });
-   });
+    });
+  });
 }
 setInterval(check, 1000);
